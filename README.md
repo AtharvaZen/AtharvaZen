@@ -1,5 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Full-stack projects using React, Vite, Tailwind CSS, Node.js<br><br>Building dashboards and scalable web apps<br><br>Strengthening problem-solving (DSA, DBMS, Compiler Design)<br><br>👯 I’m looking to collaborate on<br><br>Open-source React / Next.js projects<br><br>Full-stack web apps (MERN, Appwrite/Supabase alternatives)<br><br>Developer tools, dashboards, or productivity apps<br><br>🤝 I’m looking for help with<br><br>Advanced Next.js (production patterns)<br><br>Backend architecture & database design<br><br>Preparing for Japan IT job market standards<br><br>🌱 I’m currently learning<br><br>Next.js (job-ready path)<br><br>Design & Analysis of Algorithms (DAA)<br><br>Compiler Design & DBMS (transactions, recovery, security)<br><br>Japanese (JLPT – target: Dec 2025)<br><br>💬 Ask me about<br><br>React, Vite, Tailwind CSS<br><br>Node.js basics & backend setup<br><br>Web app debugging & setup issues<br><br>Anime-inspired minimal UI ideas<br><br>⚡ Fun fact<br><br>I mix anime philosophy + software engineering, and I aim to work in Japan’s IT industry 🇯🇵
+### 👋 About Me
+
+I’m a passionate full-stack web developer focused on building clean, scalable, and user-centric web applications. I primarily work with **React, modern JavaScript, and backend technologies**, and I’m currently advancing my skills in **Next.js**.
+
+Alongside web development, I’m actively learning and improving my **AI skills**, including **prompt engineering and practical AI integration** into applications. I enjoy solving real-world problems, learning fast, and writing maintainable, production-ready code. I’m seeking opportunities where I can contribute to meaningful projects, grow as an engineer, and create real impact.
+
 
 
 ## 🌐 Socials:
